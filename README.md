@@ -1,5 +1,5 @@
 <h1 align="center">😦 Hi 😊 I'm Ben 🤯 </h1>
-<h3 align="center">Technical Project Manager | Python Engineer </h3>
+<h3 align="center">Technical Project Manager | Support Engineer </h3>
 
 - 🔭 I'm currently revamping **my simulator for Marvel Snap Collections** (the starred repo)
 
@@ -13,13 +13,13 @@
 
 - 📫 How to reach me: **woodbenwood@gmail.com**
 
-- 📄 My resume: [https://docs.google.com/document/d/1nIwQjMN7cX1hSFFdTPs3qKcvDGCanxmmDj5h7PTdpNU/edit?usp=sharing] 
+- 📄 My resume: [(https://docs.google.com/document/d/1w-x9o5tl21PWZ7jFGBiGL6UbS1qCZhsnXUFo17gExuw/edit?usp=sharing)] 
 
 - ⚡ Fun fact: I've had a few careers already, weirdest thus far: **impersonating a made-up boyfriend so my employer's friends would believe he was real**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/drstrangephd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="drstrangephd" height="30" width="40" /></a>
+<a href="https://twitter.com/woodbenwood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="woodbenwood" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/woodbenwood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="woodbenwood" height="30" width="40" /></a>
 </p>
 
