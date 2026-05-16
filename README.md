@@ -5,7 +5,7 @@
 
 - 🌱 ...and learning **Django**...
 
-~~- 👯 I’m looking to collaborate on **creating cheap, player-like Bots for video games**~~ HOLD on the collaboration front: working 2-3 part-time jobs
+~~- 👯 I’m looking to collaborate on **creating cheap, player-like Bots for video games**~~ HOLD on the collaboration front: working full-time elementary school job
 
 - 💬 Ask me about **The direct relationship of standup attendance/engagement to checking in personally with team members**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **woodbenwood@gmail.com**
 
-- 📄 My resume: [(https://docs.google.com/document/d/1w-x9o5tl21PWZ7jFGBiGL6UbS1qCZhsnXUFo17gExuw/edit?usp=sharing)] 
+- 📄 My resume: [https://docs.google.com/document/d/1w-x9o5tl21PWZ7jFGBiGL6UbS1qCZhsnXUFo17gExuw/edit?usp=sharing] 
 
 - ⚡ Fun fact: I've had a few careers already, weirdest thus far: **impersonating a made-up boyfriend so my employer's friends would believe he was real**
 
